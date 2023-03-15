@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/33/18/56/1000_F_233185695_iH4Ge3AHNs43r41ogGcVwBC8stLtR6b0.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/33/18/56/1000_F_233185695_iH4Ge3AHNs43r41ogGcVwBC8stLtR6b0.jpg)
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Janne Marie</h1>
